@@ -1,0 +1,11 @@
+                                .special-font {
+                                font-family: 'Dancing Script', cursive;
+                                color: white;
+                            }
+                            
+                            body {
+                                background-image: linear-gradient(to right, black, white);
+                            }
+                            
+                            .special-font:hover {
+                                color: gray;
